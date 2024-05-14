@@ -1,0 +1,130 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.google {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.busqueda {
+    text-align: center;
+}
+
+input {
+    border-radius: 100px;
+    width: 580px;
+    height: 50px;
+    margin-top: 40px;
+    border-color: rgba(101, 100, 101, 0.41);
+    padding: 0px 50px 0 50px;
+    outline: none;
+}
+
+.icono {
+    text-align: right;
+    display: inline-block;
+    position: relative;
+    left: 1190px;
+    margin: 10px;
+    margin-top: 20px;
+}
+
+a {
+    color: rgb(29, 29, 29);
+    text-decoration: none;
+}
+
+img {
+    width: 20px;
+}
+
+.googleImagen {
+    height: 100px;
+    width: 300px;
+}
+
+.listas {
+    text-align: center;
+    margin-top: 30px;
+}
+
+button {
+    height: 40px;
+    width: 200px;
+    margin: 10px;
+    background-color: rgba(105, 101, 101, 0.041);
+    border-style: none;
+    border-radius: 10px;
+}
+
+.logosGlu {
+    list-style: none;
+    margin-left: 200px;
+}
+
+.lupa {
+    position: absolute;
+    top: 310px;
+    right: 965px;
+}
+
+.micro {
+    position: absolute;
+    top: 310px;
+    right: 490px;
+}
+
+.camara {
+    position: absolute;
+    top: 308px;
+    right: 450px;
+}
+
+.guate {
+    margin-top: 210px;
+    font-size: 20px;
+    padding: 20px;
+    background-color: rgba(103, 101, 101, 0.121);
+    border-bottom: 1px white solid;
+}
+
+.list1 {
+    display: inline-block;
+    margin: 4px;
+    padding: 23px;
+}
+
+.list2 {
+    display: inline-block;
+    margin: 10px;
+}
+
+.lista1 {
+    display: inline-block;
+    margin-left: 450px;
+}
+
+.lista {
+    background-color: rgba(103, 101, 101, 0.121);
+}
+
+.lista a:hover {
+    text-decoration: underline;
+}
+
+.icono a:hover {
+    text-decoration: underline;
+}
+
+.busc:hover {
+    box-shadow: 0px 1px 6px rgb(188, 186, 186);
+    outline: none;
+}
+
+button:hover {
+    box-shadow: 0px 1px 6px rgb(186, 184, 184);
+}
+
